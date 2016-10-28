@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalogclient>
+	<client id="C01">
+		<name>Henrique Madeira</name>
+		<balance>1500</balance>
+	</client>
+	<client id="C02">
+		<name>Marco Vieira</name>
+		<balance>20</balance>
+	</client>
+	<client id="C03">
+		<name>Ricardo Vigário</name>
+		<balance>220</balance>
+	</client>
+	<client id="C04">
+		<name>Nuno C. Ferreira</name>
+		<balance>260</balance>
+	</client>
+	<client id="C05">
+		<name>Mikko Sams</name>
+		<balance>250</balance>
+	</client>
+	<client id="C06">
+		<name>Fausto Pinto</name>
+		<balance>240</balance>
+	</client>
+	<client id="C07">
+		<name>Licia Verde</name>
+		<balance>280</balance>
+	</client>
+	<client id="C08">
+		<name>Jorge Bernardino</name>
+		<balance>320</balance>
+	</client>
+	<client id="C09">
+		<name>António Dourado</name>
+		<balance>120</balance>
+	</client>
+	<client id="C10">
+		<name>Tom Mitchell</name>
+		<balance>720</balance>
+	</client>
+	<client id="C11">
+		<name>Avrim Blum</name>
+		<balance>520</balance>
+	</client>
+	<client id="C12">
+		<name>Charles Bennett</name>
+		<balance>240</balance>
+	</client>
+	<client id="C13">
+		<name>Nuno Laranjeiro</name>
+		<balance>20</balance>
+	</client>
+	<client id="C14">
+		<name>Miguel Castelo-Branco</name>
+		<balance>100</balance>
+	</client>
+	<client id="C015">
+		<name>Manuel Fiolhais</name>
+		<balance>200</balance>
+	</client>
+	<client id="C16">
+		<name>Elvira Fortunato</name>
+		<balance>2000</balance>
+	</client>
+</catalogclient>

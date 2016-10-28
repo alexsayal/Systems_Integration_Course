@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+	<publication id="A01">
+				<title>Xception: A technique for the experimental evaluation of dependability in modern computers</title>
+				<cost>15</cost>
+				<fulltext>This is the full text of Xception: A technique for the experimental evaluation of dependability in modern computers</fulltext>
+	</publication>
+	<publication id="A02">
+				<title>On the emulation of software faults by software fault injection</title>
+				<cost>21</cost>
+				<fulltext>This is the full text of Xception: On the emulation of software faults by software fault injection</fulltext>
+	</publication>
+	<publication id="A03">
+				<title>Testing and comparing Web vulnerability scanning tools for SQL injection and XSS attacks</title>
+				<cost>10</cost>
+				<fulltext>This is the full text of Testing and comparing Web vulnerability scanning tools for SQL injection and XSS attacks</fulltext>
+	</publication>
+	<publication id="A04">
+				<title>A dependability benchmark for OLTP application environments</title>
+				<cost>8</cost>
+				<fulltext>This is the full text of A dependability benchmark for OLTP application environments</fulltext>
+	</publication>
+	<publication id="A05">
+				<title>Independent component approach to the analysis of EEG and MEG recordings</title>
+				<cost>10</cost>
+				<fulltext>This is the full text of Independent component approach to the analysis of EEG and MEG recordings</fulltext>
+	</publication>
+	<publication id="A06">
+				<title>A class of neural networks for independent component analysis</title>
+				<cost>30</cost>
+				<fulltext>This is the full text of A class of neural networks for independent component analysis</fulltext>
+	</publication>
+	<publication id="A07">
+				<title>Extraction of ocular artefacts from EEG using independent component analysis</title>
+				<cost>12</cost>
+				<fulltext>This is the full text of Extraction of ocular artefacts from EEG using independent component analysis</fulltext>
+	</publication>
+	<publication id="A08">
+				<title>Optimization of injected dose based on noise equivalent count rates for 2-and 3-dimensional whole-body PET</title>
+				<cost>13</cost>
+				<fulltext>This is the full text of Optimization of injected dose based on noise equivalent count rates for 2-and 3-dimensional whole-body PET</fulltext>
+	</publication>
+	<publication id="A09">
+				<title>Design and evaluation of the Clear-PEM scanner for positron emission mammography</title>
+				<cost>12</cost>
+				<fulltext>This is the full text of Extraction of Design and evaluation of the Clear-PEM scanner for positron emission mammography</fulltext>
+	</publication>
+	<publication id="A10">
+				<title>RPC-PET: a new very high resolution PET technology</title>
+				<cost>16</cost>
+				<fulltext>This is the full text of RPC-PET: a new very high resolution PET technology</fulltext>
+	</publication>
+	<publication id="A11">
+				<title>Auditory frequency discrimination and event-related potentials</title>
+				<cost>12</cost>
+				<fulltext>This is the full text of Auditory frequency discrimination and event-related potentials</fulltext>
+	</publication>
+	<publication id="A12">
+				<title>Functional organization of the human first and second somatosensory cortices: a neuromagnetic study</title>
+				<cost>6</cost>
+				<fulltext>This is the full text of Functional organization of the human first and second somatosensory cortices: a neuromagnetic study</fulltext>
+	</publication>
+	<publication id="A13">
+				<title>Seeing speech: visual information from lip movements modifies activity in the human auditory cortex</title>
+				<cost>19</cost>
+				<fulltext>This is the full text of Seeing speech: visual information from lip movements modifies activity in the human auditory cortex</fulltext>
+	</publication>
+	<publication id="A14">
+				<title>Third universal definition of myocardial infarction</title>
+				<cost>16</cost>
+				<fulltext>This is the full text of Third universal definition of myocardial infarction</fulltext>
+	</publication>
+	<publication id="A15">
+				<title>Guidelines on the diagnosis and management of pericardial diseases executive summary The Task force on the diagnosis and management of pericardial diseases of the European society of cardiology</title>
+				<cost>12</cost>
+				<fulltext>Guidelines on the diagnosis and management of pericardial diseases executive summary The Task force on the diagnosis and management of pericardial diseases of the European society of cardiology</fulltext>
+	</publication>
+	<publication id="A16">
+				<title>Intracoronary ultrasound in cardiac transplant recipients. In vivo evidence of" angiographically silent" intimal thickening</title>
+				<cost>11</cost>
+				<fulltext>This is the full text of Intracoronary ultrasound in cardiac transplant recipients. In vivo evidence of" angiographically silent" intimal thickening</fulltext>
+	</publication>
+	<publication id="A17">
+				<title>Three-Year Wilkinson Microwave Anisotropy Probe (WMAP)Observations: Implications for Cosmology</title>
+				<cost>12</cost>
+				<fulltext>This is the full text of Three-Year Wilkinson Microwave Anisotropy Probe (WMAP)Observations: Implications for Cosmology</fulltext>
+	</publication>
+	<publication id="A18">
+				<title>First-Year Wilkinson Microwave Anisotropy Probe (WMAP)Observations: Preliminary Maps and Basic Results</title>
+				<cost>7</cost>
+				<fulltext>This is the full text of First-Year Wilkinson Microwave Anisotropy Probe (WMAP)Observations: Preliminary Maps and Basic Results</fulltext>
+	</publication>
+	<publication id="A19">
+				<title>Cosmological parameters from SDSS and WMAP</title>
+				<cost>12</cost>
+				<fulltext>This is the full text of Cosmological parameters from SDSS and WMAP</fulltext>
+	</publication>
+	<publication id="A20">
+				<title>Real-time data warehouse loading methodolog</title>
+				<cost>5</cost>
+				<fulltext>This is the full text of Real-time data warehouse loading methodology</fulltext>
+	</publication>
+	<publication id="A21">
+				<title>Approximate query answering using data warehouse striping</title>
+				<cost>12</cost>
+				<fulltext>This is the full text of Approximate query answering using data warehouse striping</fulltext>
+	</publication>
+	<publication id="A22">
+				<title>Data warehousing and OLAP: improving query performance using distributed computing</title>
+				<cost>3</cost>
+				<fulltext>This is the full text of Data warehousing and OLAP: improving query performance using distributed computing</fulltext>
+	</publication>
+	<publication id="A23">
+				<title>Interpretability and learning in neuro-fuzzy systems</title>
+				<cost>12</cost>
+				<fulltext>This is the full text of Interpretability and learning in neuro-fuzzy systems</fulltext>
+	</publication>
+	<publication id="A24">
+				<title>EPILAB: A software package for studies on the prediction of epileptic seizures</title>
+				<cost>3</cost>
+				<fulltext>This is the full text of EPILAB: A software package for studies on the prediction of epileptic seizures</fulltext>
+	</publication>
+	<publication id="A25">
+				<title>Adaptive RBFNN versus conventional self-tuning: comparison of two parametric model approaches for non-linear control</title>
+				<cost>12</cost>
+				<fulltext>This is the full text of Adaptive RBFNN versus conventional self-tuning: comparison of two parametric model approaches for non-linear control</fulltext>
+	</publication>
+	<publication id="A26">
+				<title>Combining labeled and unlabeled data with co-training</title>
+				<cost>12</cost>
+				<fulltext>This is the full text of Combining labeled and unlabeled data with co-training</fulltext>
+	</publication>
+	<publication id="A27">
+				<title>Text classification from labeled and unlabeled documentsbusing EM</title>
+				<cost>17</cost>
+				<fulltext>This is the full text of Text classification from labeled and unlabeled documentsbusing EM</fulltext>
+	</publication>
+	<publication id="A28">
+				<title>Explanation-based generalization: A unifying view</title>
+				<cost>12</cost>
+				<fulltext>This is the full text of Explanation-based generalization: A unifying view</fulltext>
+	</publication>
+	<publication id="A30">
+				<title>Selection of relevant features and examples in machine learning</title>
+				<cost>12</cost>
+				<fulltext>This is the full text of Selection of relevant features and examples in machine learning</fulltext>
+	</publication>
+	<publication id="A31">
+				<title>Fast planning through planning graph analysis</title>
+				<cost>12</cost>
+				<fulltext>This is the full text of Fast planning through planning graph analysis</fulltext>
+	</publication>
+	<publication id="A32">
+				<title>Neural synchrony correlates with surface segregation rules</title>
+				<cost>12</cost>
+				<fulltext>This is the full text of Neural synchrony correlates with surface segregation rules</fulltext>
+	</publication>
+	<publication id="A33">
+				<title>Seven-year Wilkinson microwave anisotropy probe (WMAP)observations: cosmological interpretation</title>
+				<cost>29</cost>
+				<fulltext>This is the full text of Seven-year Wilkinson microwave anisotropy probe (WMAP)observations: cosmological interpretation</fulltext>
+	</publication>
+	<publication id="A34">
+				<title>Activity patterns in human motion-sensitive areas depend on the interpretation of global motion</title>
+				<cost>12</cost>
+				<fulltext>This is the full text of Activity patterns in human motion-sensitive areas depend on the interpretation of global motion</fulltext>
+	</publication>
+	<publication id="A35">
+				<title>The microwave anisotropy probe mission</title>
+				<cost>18</cost>
+				<fulltext>This is the full text of The microwave anisotropy probe mission</fulltext>
+	</publication>
+	<publication id="A36">
+				<title>Effective Detection of SQL/XPath Injection Vulnerabilities in Web Services</title>
+				<cost>9</cost>
+				<fulltext>This is the full text of Effective Detection of SQL/XPath Injection Vulnerabilities in Web Services</fulltext>
+	</publication>
+	<publication id="A37">
+				<title>Assessing robustness of web-services infrastructures</title>
+				<cost>22</cost>
+				<fulltext>This is the full text of Assessing robustness of web-services infrastructures</fulltext>
+	</publication>
+	<publication id="A38">
+				<title>Benchmarking the robustness of web services</title>
+				<cost>21</cost>
+				<fulltext>This is the full text of Benchmarking the robustness of web services</fulltext>
+	</publication>
+	<publication id="A39">
+				<title>Synchronization of visual responses between the cortex,lateral geniculate nucleus, and retina in the anesthetized cat</title>
+				<cost>31</cost>
+				<fulltext>This is the full text of Synchronization of visual responses between the cortex,lateral geniculate nucleus, and retina in the anesthetized cat</fulltext>
+	</publication>
+	<publication id="A41">
+				<title>Measurement of the top quark-pair production cross section with ATLAS in pp collisions at\ sqrt {s}= 7 TeV</title>
+				<cost>56</cost>
+				<fulltext>This is the full text of Measurement of the top quark-pair production cross section with ATLAS in pp collisions at\ sqrt {s}= 7 TeV</fulltext>
+	</publication>
+	<publication id="A42">
+				<title>Readiness of the ATLAS Tile Calorimeter for LHC collisions</title>
+				<cost>23</cost>
+				<fulltext>This is the full text of Readiness of the ATLAS Tile Calorimeter for LHC collisions</fulltext>
+	</publication>
+	<publication id="A43">
+				<title>Measurement of the W boson polarization in top quark decays with the ATLAS detector</title>
+				<cost>10</cost>
+				<fulltext>This is the full text of Measurement of the W boson polarization in top quark decays with the ATLAS detector</fulltext>
+	</publication>
+	<publication id="A44">
+				<title>Fully Transparent ZnO Thin-Film Transistor Produced at Room Temperature</title>
+				<cost>4</cost>
+				<fulltext>This is the full text of Measurement of the W boson polarization in top quark decays with the ATLAS detector</fulltext>
+	</publication>
+	<publication id="A45">
+				<title>Oxide Semiconductor Thin-Film Transistors: A Review of Recent Advances</title>
+				<cost>7</cost>
+				<fulltext>This is the full text of Oxide Semiconductor Thin-Film Transistors: A Review of Recent Advances</fulltext>
+	</publication>
+	<publication id="A46">
+				<title>Wide-bandgap high-mobility ZnO thin-film transistors produced at room temperature</title>
+				<cost>8</cost>
+				<fulltext>This is the full text of Wide-bandgap high-mobility ZnO thin-film transistors produced at room temperature</fulltext>
+	</publication>
+</catalog>

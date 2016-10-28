@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="Project2_EAR">
+        <wb-resource deploy-path="/" source-path="/EarContent" tag="defaultRootSource"/>
+        <dependent-module archiveName="Project2_Entities.jar" deploy-path="/lib" handle="module:/resource/Project2_Entities/Project2_Entities">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="Project2_Researcher_EJB.jar" deploy-path="/" handle="module:/resource/Project2_Researcher_EJB/Project2_Researcher_EJB">
+            <dependent-object/>
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="Project2_Publication_WEB.war" deploy-path="/" handle="module:/resource/Project2_Publication_WEB/Project2_Publication_WEB">
+            <dependent-object/>
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="Project2_Servlet_WEB.war" deploy-path="/" handle="module:/resource/Project2_Servlet_WEB/Project2_Servlet_WEB">
+            <dependent-object/>
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="Project2_Publication_EJB.jar" deploy-path="/" handle="module:/resource/Project2_Publication_EJB/Project2_Publication_EJB">
+            <dependent-object/>
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="Project2_Researcher_WEB.war" deploy-path="/" handle="module:/resource/Project2_Researcher_WEB/Project2_Researcher_WEB">
+            <dependent-object/>
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+    </wb-module>
+</project-modules>

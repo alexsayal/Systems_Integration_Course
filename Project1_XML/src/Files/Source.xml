@@ -1,0 +1,861 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+	<researcher id="R01">
+		<name>Henrique Madeira</name>
+
+		<university>University of Coimbra</university>
+
+		<interests>
+			<topic>Dependable computing</topic>
+			<topic>Experimental evaluation</topic>
+			<topic>Fault injection</topic>
+			<topic>Dependability benchmarking</topic>
+		</interests>
+
+		<articles>
+			<article>
+				<title>Xception: A technique for the experimental evaluation of
+					dependability in modern computers
+				</title>
+				<authors>
+					<author>J Carreira</author>
+					<author>H Madeira</author>
+					<author>JG Silva</author>
+				</authors>
+				<cited>354</cited>
+				<year>1998</year>
+				<publication>IEEE Transactions on Software Engineering</publication>
+			</article>
+			<article>
+				<title>Emulation of software faults: A field data study and a
+					practical approach
+				</title>
+				<authors>
+					<author>JA Duraes</author>
+					<author>HS Madeira</author>
+				</authors>
+				<cited>175</cited>
+				<year>2006</year>
+				<publication>IEEE Transactions on Software Engineering</publication>
+			</article>
+			<article>
+				<title>Using web security scanners to detect vulnerabilities in web
+					services
+				</title>
+				<authors>
+					<author>M Vieira</author>
+					<author>H Madeira</author>
+					<author>N Antunes</author>
+				</authors>
+				<cited>81</cited>
+				<year>2009</year>
+				<publication>Dependable Systems &amp; Networks</publication>
+			</article>
+		</articles>
+	</researcher>
+
+	<researcher id="R02">
+		<name>Marco Vieira</name>
+		<university>University of Coimbra</university>
+		<interests>
+			<topic>Dependability</topic>
+			<topic>Security</topic>
+			<topic>Software Engineering</topic>
+			<topic>Web Services</topic>
+			<topic>Databases</topic>
+		</interests>
+		<articles>
+			<article>
+				<title>On the emulation of software faults by software fault
+					injection
+				</title>
+				<authors>
+					<author>H Madeira</author>
+					<author>D Costa</author>
+					<author>M Vieira</author>
+				</authors>
+				<cited>129</cited>
+				<year>2000</year>
+				<publication>Dependable Systems and Networks</publication>
+			</article>
+			<article>
+				<title>Testing and comparing Web vulnerability scanning tools for
+					SQL injection and XSS attacks
+				</title>
+				<authors>
+					<author>J Fonseca</author>
+					<author>M Vieira</author>
+					<author>H Madeira</author>
+				</authors>
+				<cited>90</cited>
+				<year>2007</year>
+				<publication>Dependable Computing</publication>
+			</article>
+			<article>
+				<title>A dependability benchmark for OLTP application environments
+				</title>
+				<authors>
+					<author>M Vieira</author>
+					<author>H Madeira</author>
+				</authors>
+				<cited>85</cited>
+				<year>2003</year>
+				<publication>Proceedings of the 29th international conference on
+					Very large data bases-Volume 29
+				</publication>
+			</article>
+		</articles>
+	</researcher>
+
+	<researcher id="R03">
+		<name>Ricardo Vigário</name>
+		<university>Aalto University</university>
+		<interests>
+			<topic>Independent Component Analysis</topic>
+			<topic>Magnetoencephalography</topic>
+			<topic>Electroencephalography</topic>
+		</interests>
+		<articles>
+			<article>
+				<title>Independent component approach to the analysis of EEG and MEG
+					recordings</title>
+				<authors>
+					<author>R Vigário</author>
+					<author>J Sarela</author>
+					<author>V Jousmiki</author>
+					<author>M Hamalainen</author>
+					<author>E Oja</author>
+				</authors>
+				<cited>527</cited>
+				<year>2000</year>
+				<publication>Biomedical Engineering, IEEE Transactions</publication>
+			</article>
+			<article>
+				<title>A class of neural networks for independent component analysis
+				</title>
+				<authors>
+					<author>J Karhunen</author>
+					<author>E Oja</author>
+					<author>L Wang</author>
+					<author>R Vigário</author>
+					<author>J Joutsensalo</author>
+				</authors>
+				<cited>486</cited>
+				<year>1997</year>
+				<publication>Neural Networks, IEEE Transactions</publication>
+			</article>
+			<article>
+				<title>Extraction of ocular artefacts from EEG using independent
+					component analysis</title>
+				<authors>
+					<author>R Vigário</author>
+				</authors>
+				<cited>431</cited>
+				<year>1997</year>
+				<publication>Electroencephalography and clinical neurophysiology
+				</publication>
+			</article>
+		</articles>
+	</researcher>
+
+	<researcher id="R04">
+		<name>Nuno C. Ferreira</name>
+		<university>University of Coimbra</university>
+		<interests>
+			<topic>Positron Emission Tomography</topic>
+			<topic>Imaging</topic>
+			<topic>Quantification</topic>
+		</interests>
+		<articles>
+			<article>
+				<title>Optimization of injected dose based on noise equivalent count
+					rates for 2-and 3-dimensional whole-body PET</title>
+				<authors>
+					<author>C Lartizien</author>
+					<author>C Comtat</author>
+					<author>PE Kinahan</author>
+					<author>N Ferreira</author>
+					<author>B Bendriem</author>
+					<author>R Trébossen</author>
+				</authors>
+				<cited>100</cited>
+				<year>2002</year>
+				<publication>Journal of Nuclear Medicine 43</publication>
+			</article>
+			<article>
+				<title>Design and evaluation of the Clear-PEM scanner for positron
+					emission mammography</title>
+				<authors>
+					<author>MC Abreu</author>
+					<author>JD Aguiar</author>
+					<author>FG Almeida</author>
+					<author>P Almeida</author>
+					<author>P Bento</author>
+					<author>B Carriço</author>
+				</authors>
+				<cited>91</cited>
+				<year>2006</year>
+				<publication>Nuclear Science, IEEE Transactions on 53</publication>
+			</article>
+			<article>
+				<title>RPC-PET: a new very high resolution PET technology</title>
+				<authors>
+					<author>A Blanco</author>
+					<author>N Carolino</author>
+					<author>NC Ferreira</author>
+					<author>C Correia</author>
+					<author>MP Macedo</author>
+					<author>L Fazendeiro</author>
+				</authors>
+				<cited>36</cited>
+				<year>2004</year>
+				<publication>Nuclear Science Symposium Conference Record
+				</publication>
+			</article>
+		</articles>
+	</researcher>
+
+	<researcher id="R05">
+		<name>Mikko Sams</name>
+		<university>Aalto University</university>
+		<interests>
+			<topic>Cognitive Neuroscience</topic>
+			<topic>Emotions</topic>
+			<topic>Social Interaction</topic>
+		</interests>
+		<articles>
+			<article>
+				<title>Auditory frequency discrimination and event-related
+					potentials</title>
+				<authors>
+					<author>M Sams</author>
+					<author>P Paavilainen</author>
+					<author>K Alho</author>
+					<author>R Näätänen</author>
+				</authors>
+				<cited>552</cited>
+				<year>1985</year>
+				<publication>Electroencephalography and Clinical Neurophysiology
+				</publication>
+			</article>
+			<article>
+				<title>Functional organization of the human first and second
+					somatosensory cortices: a neuromagnetic study</title>
+				<authors>
+					<author>R Hari</author>
+					<author>J Karhu</author>
+					<author>M Hämäläinen</author>
+					<author>J Knuutila</author>
+					<author>O Salonen</author>
+					<author>M Sams</author>
+				</authors>
+				<cited>462</cited>
+				<year>1993</year>
+				<publication>European Journal of Neuroscience 5</publication>
+			</article>
+			<article>
+				<title>Seeing speech: visual information from lip movements modifies
+					activity in the human auditory cortex</title>
+				<authors>
+					<author>M Sams</author>
+					<author>R Aulanko</author>
+					<author>M Hämäläinen</author>
+					<author>R Hari</author>
+					<author>OV Lounasmaa</author>
+					<author>ST Lu</author>
+				</authors>
+				<cited>370</cited>
+				<year>1991</year>
+				<publication>Neuroscience letters 127</publication>
+			</article>
+		</articles>
+	</researcher>
+
+	<researcher id="R06">
+		<name>Fausto Pinto</name>
+		<university>University of Lisbon</university>
+		<interests>
+			<topic>Cardiology</topic>
+			<topic>Ecocardiogram</topic>
+			<topic>Cardiovascular Imaging</topic>
+			<topic>Intravascular Ultrasound</topic>
+		</interests>
+		<articles>
+			<article>
+				<title>Third universal definition of myocardial infarction</title>
+				<authors>
+					<author>K Thygesen</author>
+					<author>JS Alpert</author>
+					<author>AS Jaffe</author>
+					<author>HD White</author>
+					<author>ML Simoons</author>
+					<author>BR Chaitman</author>
+				</authors>
+				<cited>1671</cited>
+				<year>2012</year>
+				<publication>Journal of the American College of Cardiology 60
+				</publication>
+			</article>
+			<article>
+				<title>Guidelines on the diagnosis and management of pericardial
+					diseases executive summary The Task force on the diagnosis and
+					management of pericardial diseases of the European society of
+					cardiology</title>
+				<authors>
+					<author>B Maisch</author>
+					<author>PM Seferović</author>
+					<author>AD Ristić</author>
+					<author>R Erbel</author>
+					<author>R Rienmüller</author>
+					<author>Y Adler</author>
+				</authors>
+				<cited>711</cited>
+				<year>2004</year>
+				<publication>European Heart Journal 25</publication>
+			</article>
+			<article>
+				<title>Intracoronary ultrasound in cardiac transplant recipients. In
+					vivo evidence of" angiographically silent" intimal thickening
+				</title>
+				<authors>
+					<author>FG St Goar</author>
+					<author>FJ Pinto</author>
+					<author>EL Alderman</author>
+					<author>HA Valantine</author>
+					<author>JS Schroeder</author>
+					<author>SZ Gao</author>
+				</authors>
+				<cited>432</cited>
+				<year>1992</year>
+				<publication>Circulation 85</publication>
+			</article>
+		</articles>
+	</researcher>
+
+	<researcher id="R07">
+		<name>Licia Verde</name>
+		<university>University of Barcelona</university>
+		<interests>
+			<topic>Physics</topic>
+			<topic>Astronomy</topic>
+			<topic>Astrophysics</topic>
+			<topic>Cosmology</topic>
+		</interests>
+		<articles>
+			<article>
+				<title>Three-Year Wilkinson Microwave Anisotropy Probe (WMAP)
+					Observations: Implications for Cosmology</title>
+				<authors>
+					<author>DN Spergel</author>
+					<author>R Bean</author>
+					<author>O Doré</author>
+					<author>MR Nolta</author>
+					<author>CL Bennett</author>
+					<author>J Dunkley</author>
+				</authors>
+				<cited>16285</cited>
+				<year>2007</year>
+				<publication>Astrophysical Journal Supplement Series 170
+				</publication>
+			</article>
+			<article>
+				<title>First-Year Wilkinson Microwave Anisotropy Probe (WMAP)
+					Observations: Preliminary Maps and Basic Results</title>
+				<authors>
+					<author>CL Bennett</author>
+					<author>M Halpern</author>
+					<author>G Hinshaw</author>
+					<author>N Jarosik</author>
+					<author>A Kogut</author>
+					<author>M Limon</author>
+				</authors>
+				<cited>4570</cited>
+				<year>2003</year>
+				<publication>Astrophysical Journal Supplement Series 148
+				</publication>
+			</article>
+			<article>
+				<title>Cosmological parameters from SDSS and WMAP</title>
+				<authors>
+					<author>M Tegmark</author>
+					<author>MA Strauss</author>
+					<author>MR Blanton</author>
+					<author>K Abazajian</author>
+					<author>S Dodelson</author>
+				</authors>
+				<cited>4216</cited>
+				<year>2004</year>
+				<publication>Physical Review D 69</publication>
+			</article>
+		</articles>
+	</researcher>
+	<researcher id="R08">
+		<name>Jorge Bernardino</name>
+		<university>Polytechnic Institute of Coimbra</university>
+		<interests>
+			<topic>Data Warehousing</topic>
+			<topic>Business Intelligence</topic>
+			<topic>Big Data</topic>
+		</interests>
+		<articles>
+			<article>
+				<title>Real-time data warehouse loading methodology</title>
+				<authors>
+					<author>RJ Santos</author>
+					<author>J Bernardino</author>
+				</authors>
+				<cited>67</cited>
+				<year>2008</year>
+				<publication>Approximate query answering using data warehouse
+					striping</publication>
+			</article>
+			<article>
+				<title>Approximate query answering using data warehouse striping
+				</title>
+				<authors>
+					<author>JR Bernardino</author>
+					<author>PS Furtado</author>
+					<author>HC Madeira</author>
+				</authors>
+				<cited>40</cited>
+				<year>2002</year>
+				<publication>Journal of Intelligent Information Systems
+				</publication>
+			</article>
+			<article>
+				<title>Data warehousing and OLAP: improving query performance using
+					distributed computing</title>
+				<authors>
+					<author>J Bernardino</author>
+					<author>H Madeira</author>
+				</authors>
+				<cited>29</cited>
+				<year>2000</year>
+				<publication>Proceedings of CAiSE’00, Sweden</publication>
+			</article>
+		</articles>
+	</researcher>
+
+	<researcher id="R09">
+		<name>António Dourado</name>
+		<university>University of Coimbra</university>
+		<interests>
+			<topic>Computational Intelligence</topic>
+			<topic>Machine Learning</topic>
+			<topic>Automatic Control</topic>
+			<topic>Signal Processing</topic>
+			<topic>Systems Theory</topic>
+		</interests>
+		<articles>
+			<article>
+				<title>Interpretability and learning in neuro-fuzzy systems</title>
+				<authors>
+					<author>RP Paiva</author>
+					<author>A Dourado</author>
+				</authors>
+				<cited>111</cited>
+				<year>2004</year>
+				<publication>Fuzzy sets and systems</publication>
+			</article>
+			<article>
+				<title>EPILAB: A software package for studies on the prediction of
+					epileptic seizures</title>
+				<authors>
+					<author>CA Teixeira</author>
+					<author>B Direito</author>
+					<author>H Feldwisch-Drentrup</author>
+					<author>M Valderrama</author>
+					<author>RP Costa</author>
+				</authors>
+				<cited>33</cited>
+				<year>2011</year>
+				<publication>Journal of neuroscience methods</publication>
+			</article>
+			<article>
+				<title>Adaptive RBFNN versus conventional self-tuning: comparison of
+					two parametric model approaches for non-linear control</title>
+				<authors>
+					<author>C Pereira</author>
+					<author>J Henriques</author>
+					<author>A Dourado</author>
+				</authors>
+				<cited>29</cited>
+				<year>2000</year>
+				<publication>Control Engineering Practice 8 (1), 3-12</publication>
+			</article>
+		</articles>
+	</researcher>
+
+	<researcher id="R10">
+		<name>Tom Mitchell</name>
+		<university>Carnegie Mellon University</university>
+		<interests>
+			<topic>Machine Learning</topic>
+			<topic>Cognitive Neuroscience</topic>
+			<topic>Natural language understanding</topic>
+		</interests>
+		<articles>
+			<article>
+				<title>Combining labeled and unlabeled data with co-training</title>
+				<authors>
+					<author>A Blum</author>
+					<author>T Mitchell</author>
+				</authors>
+				<cited>3565</cited>
+				<year>1998</year>
+				<publication>Proceedings of the eleventh annual conference on
+					Computational learning theory</publication>
+			</article>
+			<article>
+				<title>Text classification from labeled and unlabeled documents
+					using EM</title>
+				<authors>
+					<author>K Nigam</author>
+					<author>AK McCallum</author>
+					<author>S Thrun</author>
+					<author>T Mitchell</author>
+				</authors>
+				<cited>2360</cited>
+				<year>2000</year>
+				<publication>Machine learning</publication>
+			</article>
+			<article>
+				<title>Explanation-based generalization: A unifying view</title>
+				<authors>
+					<author>TM Mitchell</author>
+					<author>RM Keller</author>
+					<author>ST Kedar-Cabelli</author>
+				</authors>
+				<cited>1835</cited>
+				<year>1986</year>
+				<publication>Machine learning</publication>
+			</article>
+		</articles>
+	</researcher>
+
+	<researcher id="R11">
+		<name>Avrim Blum</name>
+		<university>Carnegie Mellon University</university>
+		<interests>
+			<topic>Machine Learning</topic>
+			<topic>Approximation Algorithms</topic>
+			<topic>Algorithmic Game Theory</topic>
+			<topic>Online Algorithms</topic>
+			<topic>Privacy</topic>
+		</interests>
+		<articles>
+			<article>
+				<title>Combining labeled and unlabeled data with co-training</title>
+				<authors>
+					<author>A Blum</author>
+					<author>T Mitchell</author>
+				</authors>
+				<cited>3565</cited>
+				<year>1998</year>
+				<publication>Proceedings of the eleventh annual conference on
+					Computational learning theory</publication>
+			</article>
+			<article>
+				<title>Selection of relevant features and examples in machine
+					learning</title>
+				<authors>
+					<author>AL Blum</author>
+					<author>P Langley</author>
+				</authors>
+				<cited>2256</cited>
+				<year>1997</year>
+				<publication>Artificial intelligence 97 (1), 245-271/publication>
+				</publication>
+			</article>
+			<article>
+				<title>Fast planning through planning graph analysis</title>
+				<authors>
+					<author>AL Blum</author>
+					<author>ML Furst</author>
+				</authors>
+				<cited>2208</cited>
+				<year>1997</year>
+				<publication>Artificial intelligence 90 (1), 281-300</publication>
+			</article>
+		</articles>
+	</researcher>
+
+	<researcher id="R12">
+		<name>Avrim Blum</name>
+		<university>Johns Hopkins University</university>
+		<interests>
+			<topic>Cosmology</topic>
+			<topic>Astrophysics</topic>
+			<topic>Astronomy</topic>
+		</interests>
+		<articles>
+			<article>
+				<title>First-year Wilkinson Microwave Anisotropy Probe (WMAP)
+					observations: determination of cosmological parameters</title>
+				<authors>
+					<author>DN Spergel</author>
+					<author>L Verde</author>
+					<author>HV Peiris</author>
+					<author>E Komatsu</author>
+					<author>MR Nolta</author>
+					<author>CL Bennett</author>
+				</authors>
+				<cited>16285</cited>
+				<year>2003</year>
+				<publication>The Astrophysical Journal Supplement Series 148 (1),
+					175</publication>
+			</article>
+			<article>
+				<title>Seven-year Wilkinson microwave anisotropy probe (WMAP)
+					observations: cosmological interpretation</title>
+				<authors>
+					<author>E Komatsu</author>
+					<author>KM Smith</author>
+					<author>J Dunkley</author>
+					<author> CL Bennett</author>
+					<author>B Gold</author>
+					<author>G Hinshaw</author>
+				</authors>
+				<cited>10592</cited>
+				<year>2011</year>
+				<publication>The Astrophysical Journal Supplement Series 192 (2), 18
+				</publication>
+			</article>
+			<article>
+				<title>The microwave anisotropy probe mission</title>
+				<authors>
+					<author>CL Bennett</author>
+					<author>M Bay</author>
+					<author>M Halpern</author>
+					<author>G Hinshaw</author>
+					<author>C Jackson</author>
+					<author>A Kogut</author>
+				</authors>
+				<cited>4574</cited>
+				<year>2003</year>
+				<publication>The Astrophysical Journal 583 (1), 1</publication>
+			</article>
+		</articles>
+	</researcher>
+
+	<researcher id="R13">
+		<name>Nuno Laranjeiro</name>
+		<university>University of Coimbra</university>
+		<interests>
+			<topic>Web Services</topic>
+			<topic>Dependability</topic>
+			<topic>Robustness</topic>
+			<topic>Security</topic>
+			<topic>Interoperability</topic>
+		</interests>
+		<articles>
+			<article>
+				<title>Effective Detection of SQL/XPath Injection Vulnerabilities in
+					Web Services</title>
+				<authors>
+					<author>N Antunes</author>
+					<author>N Laranjeiro</author>
+					<author>M Vieira</author>
+					<author>H Madeira</author>
+				</authors>
+				<cited>42</cited>
+				<year>2009</year>
+				<publication>Services Computing, 2009. SCC'09. IEEE International
+					Conference on, 260-267</publication>
+			</article>
+			<article>
+				<title>Assessing robustness of web-services infrastructures</title>
+				<authors>
+					<author>M Vieira</author>
+					<author>N Laranjeiro</author>
+					<author>H Madeira</author>
+				</authors>
+				<cited>434</cited>
+				<year>2007</year>
+				<publication>Dependable Systems and Networks, 2007. DSN'07. 37th
+					Annual IEEE/IFIP International Conference on</publication>
+			</article>
+			<article>
+				<title>Benchmarking the robustness of web services</title>
+				<authors>
+					<author>M Vieira</author>
+					<author>N Laranjeiro</author>
+					<author>H Madeira</author>
+				</authors>
+				<cited>37</cited>
+				<year>2007</year>
+				<publication>Dependable Computing, 2007. PRDC 2007. 13th Pacific Rim
+					International Symposium on</publication>
+			</article>
+		</articles>
+	</researcher>
+
+
+	<researcher id="R14">
+		<name>Miguel Castelo-Branco</name>
+		<university>University of Coimbra</university>
+		<interests>
+			<topic>Visual Neuroscience</topic>
+			<topic>Neuroimaging</topic>
+			<topic>Quantitative Methods in Biology</topic>
+		</interests>
+		<articles>
+			<article>
+				<title>Synchronization of visual responses between the cortex,
+					lateral geniculate nucleus, and retina in the anesthetized cat
+				</title>
+				<authors>
+					<author>M Castelo-Branco</author>
+					<author>S Neuenschwander</author>
+					<author>W Singer</author>
+				</authors>
+				<cited>295</cited>
+				<year>1998</year>
+				<publication>The Journal of neuroscience 18 (16), 6395-6410
+				</publication>
+			</article>
+			<article>
+				<title>Neural synchrony correlates with surface segregation rules
+				</title>
+				<authors>
+					<author>M Castelo-Branco</author>
+					<author>R Goebel</author>
+					<author>S Neuenschwander</author>
+					<author>W Singer</author>
+				</authors>
+				<cited>195</cited>
+				<year>2000</year>
+				<publication>Nature 405 (6787), 685-689</publication>
+			</article>
+			<article>
+				<title>Activity patterns in human motion-sensitive areas depend on
+					the interpretation of global motion</title>
+				<authors>
+					<author>M Castelo-Branco</author>
+					<author>E Formisano</author>
+					<author>W Backes</author>
+					<author>F Zanella</author>
+				</authors>
+				<cited>108</cited>
+				<year>2002</year>
+				<publication>Proceedings of the National Academy of Sciences 99
+					(21), 13914-13919</publication>
+			</article>
+		</articles>
+	</researcher>
+
+	<researcher id="R15">
+		<name>Manuel Fiolhais</name>
+		<university>University of Coimbra</university>
+		<interests>
+			<topic>High energy physics</topic>
+			<topic>Top quark physics</topic>
+			<topic>Hadronic calorimeters</topic>
+			<topic>Superconductivity</topic>
+		</interests>
+		<articles>
+			<article>
+				<title>Measurement of the top quark-pair production cross section
+					with ATLAS in pp collisions at\ sqrt {s}= 7 TeV</title>
+				<authors>
+					<author>G Aad</author>
+					<author>B Abbott</author>
+					<author>J Abdallah</author>
+					<author>AA Abdelalim</author>
+					<author>A Abdesselam</author>
+					<author>O Abdinov</author>
+				</authors>
+				<cited>430</cited>
+				<year>2011</year>
+				<publication>The European Physical Journal C 71 (3), 1-36
+				</publication>
+			</article>
+			<article>
+				<title>Readiness of the ATLAS Tile Calorimeter for LHC collisions
+				</title>
+				<authors>
+					<author>G Aad</author>
+					<author>B Abbott</author>
+					<author>J Abdallah</author>
+					<author>AA Abdelalim</author>
+					<author>A Abdesselam</author>
+					<author>O Abdinov</author>
+				</authors>
+				<cited>175</cited>
+				<year>2010</year>
+				<publication>The European Physical Journal C-Particles and Fields 70
+					(4), 1193-1236</publication>
+			</article>
+			<article>
+				<title>Measurement of the W boson polarization in top quark decays
+					with the ATLAS detector</title>
+				<authors>
+					<author>G Aad</author>
+					<author>B Abbott</author>
+					<author>J Abdallah</author>
+					<author>SA Khalek</author>
+					<author>AA Abdelalim</author>
+					<author>O Abdinov</author>
+				</authors>
+				<cited>102</cited>
+				<year>2012</year>
+				<publication>Journal of High Energy Physics 2012 (6), 1-46
+				</publication>
+			</article>
+		</articles>
+	</researcher>
+
+	<researcher id="R16">
+		<name>Elvira Fortunato</name>
+		<university>University New of Lisbon</university>
+		<interests>
+			<topic>Nanotechnology</topic>
+			<topic>Transparent Electronics</topic>
+			<topic>Biosensors</topic>
+			<topic>Thin Film Transistors</topic>
+			<topic>Chromogenic Materials</topic>
+		</interests>
+		<articles>
+			<article>
+				<title>Fully Transparent ZnO Thin‐Film Transistor Produced at Room
+					Temperature</title>
+				<authors>
+					<author>EMC Fortunato</author>
+					<author>PMC Barquinha</author>
+					<author>A Pimentel</author>
+					<author>AMF Gonçalves</author>
+				</authors>
+				<cited>665</cited>
+				<year>2005</year>
+				<publication>Advanced Materials 17 (5), 590-594</publication>
+			</article>
+			<article>
+				<title>Oxide Semiconductor Thin‐Film Transistors: A Review of Recent
+					Advances</title>
+				<authors>
+					<author>E Fortunato</author>
+					<author>P Barquinha</author>
+					<author>R Martins</author>
+				</authors>
+				<cited>434</cited>
+				<year>2012</year>
+				<publication>Advanced materials 24 (22), 2945-2986</publication>
+			</article>
+			<article>
+				<title>Wide-bandgap high-mobility ZnO thin-film transistors produced
+					at room temperature</title>
+				<authors>
+					<author>EMC Fortunato</author>
+					<author>PMC Barquinha</author>
+					<author>A Pimentel</author>
+					<author>AMF Gonçalves</author>
+				</authors>
+				<cited>638</cited>
+				<year>2004</year>
+				<publication>Applied Physics Letters 85 (13), 2541-2543
+				</publication>
+			</article>
+		</articles>
+	</researcher>
+
+</catalog>

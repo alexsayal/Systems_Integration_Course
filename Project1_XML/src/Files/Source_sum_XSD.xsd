@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="catalog_summary">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="numresearchers"/>
+        <xs:element ref="numcitations"/>
+        <xs:element ref="topthree"/>
+        <xs:element ref="interests_summary"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="numresearchers" type="xs:integer"/>
+  <xs:element name="numcitations" type="xs:integer"/>
+  <xs:element name="topthree">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="topname"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="topname" type="xs:NCName"/>
+  <xs:element name="interests_summary">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="interest"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="interest">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="name_int"/>
+        <xs:element ref="researcher_summary"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="name_int" type="xs:string"/>
+  <xs:element name="researcher_summary">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="res"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="res">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="name_res"/>
+        <xs:element ref="uni_res"/>
+        <xs:element ref="articles"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="name_res" type="xs:NCName"/>
+  <xs:element name="uni_res" type="xs:NCName"/>
+  <xs:element name="articles">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="article"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="article">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="title"/>
+        <xs:element ref="authors"/>
+        <xs:element ref="cited"/>
+        <xs:element ref="year"/>
+        <xs:element ref="publication"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="title" type="xs:NCName"/>
+  <xs:element name="authors">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="author"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="author" type="xs:NCName"/>
+  <xs:element name="cited" type="xs:integer"/>
+  <xs:element name="year" type="xs:integer"/>
+  <xs:element name="publication" type="xs:NCName"/>
+</xs:schema>
